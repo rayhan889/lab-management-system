@@ -1,9 +1,6 @@
 package source.data.tool;
 
-enum ToolCategory {
-    HEAVY,
-    SMALL
-}
+import source.data.tool.ToolCategory;
 
 public class Tool {
     protected String code;
